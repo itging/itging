@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Alejandra Giraldo
+# 👋 ¡Hola! Soy Aleja
 
 Bienvenida/o a mi perfil de GitHub. Soy estudiante de **Tecnología en Análisis y Desarrollo de Software**, apasionada por el aprendizaje constante, la resolución de problemas y la construcción de soluciones tecnológicas que impacten de forma positiva a las personas y organizaciones.
 
